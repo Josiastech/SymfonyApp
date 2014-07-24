@@ -1,4 +1,4 @@
-+SymfonyApp
- +==========
- +
- +Symfony Web App
+SymfonyApp
+==========
+
+Symfony Web App
